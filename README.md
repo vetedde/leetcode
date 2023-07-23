@@ -1,3 +1,6 @@
+# General
+- [13 - Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+
 # Arrays
 - [977 - Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
