@@ -6,3 +6,6 @@
 
 # Pointers
 - [977 - Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+
+# Tree
+- [94 - Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
